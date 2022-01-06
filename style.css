@@ -50,7 +50,7 @@ p {
     transition: .5s;
 } */
 
-.img:hover {
+#card:hover .img {
     border-color: rgb(212, 41, 41);
     transition: .5s;
 }
